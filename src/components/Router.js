@@ -10,6 +10,7 @@ const Router = () => (
     <Switch>
       <Route exact path="/" component={StorePicker} />
       <Route exact path="/store/:storeId" component={App} />
+      // catche all other routes
       <Route component={NotFound} />
     </Switch>
   </BrowserRouter>
