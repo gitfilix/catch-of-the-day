@@ -1,0 +1,6 @@
+filix-react notes
+-----------------
+
+get an object from a component with $r
+
+Object.keys($r.state.fishes)
