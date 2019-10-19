@@ -59,7 +59,7 @@ const fishes = {
     image: "/images/oysters.jpg",
     desc: "A soft plump oyster with a sweet salty flavor and a clean finish.",
     price: 2543,
-    status: "available"
+    status: "unavailable"
   },
 
   fish8: {
