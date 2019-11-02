@@ -4,3 +4,6 @@ filix-react notes
 get an object from a component with $r
 
 Object.keys($r.state.fishes)
+
+// here is $r = App component
+$r.addToOrder('fish1')
